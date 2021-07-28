@@ -61,11 +61,4 @@ If all goes well, a successful execution of this contract looks like [this (Rops
 - There are no direct ETH pairs in UniswapV2 therefore the need for a WETH wrapper. Since Sushiswap is forked from UniswapV2 you'll need to wrap in WETH as well.
 
 <br /><br />
-If you found this useful and would like to send me some gas money: 
-```
-0xef03254aBC88C81Cb822b5E4DCDf22D55645bCe6
-```
 
-
-Thanks,
-@fifikobayashi
